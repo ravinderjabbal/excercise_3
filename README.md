@@ -14,4 +14,4 @@ Script --> Test_Scenario_2.py
 Variable --> numberToCall 
 
 Script --> Configuration.py
-Variable --> desired_caps -->  deviceName,platformName,platformVersion
+Variable --> desired_caps -->  deviceName,platformName,platformVersion.
